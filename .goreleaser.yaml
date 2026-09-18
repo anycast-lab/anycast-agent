@@ -19,7 +19,7 @@ builds:
     flags:
       - -trimpath
     ldflags:
-      - -s -w -X github.com/portalix/anycast-agent/internal/push.Version={{.Version}}
+      - -s -w -X github.com/anycast-lab/anycast-agent/internal/push.Version={{.Version}}
     mod_timestamp: "{{ .CommitTimestamp }}"
 
 archives:

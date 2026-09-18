@@ -1,4 +1,4 @@
-module github.com/portalix/anycast-agent
+module github.com/anycast-lab/anycast-agent
 
 go 1.25.0
 

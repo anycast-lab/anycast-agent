@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/portalix/anycast-agent/internal/agg"
+	"github.com/anycast-lab/anycast-agent/internal/agg"
 )
 
 // ingest is a test ingest endpoint that can be switched between 500 and 200

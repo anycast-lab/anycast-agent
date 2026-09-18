@@ -20,7 +20,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/portalix/anycast-agent/internal/agg"
+	"github.com/anycast-lab/anycast-agent/internal/agg"
 )
 
 // Version is stamped by the release build (goreleaser, -X); source builds
