@@ -74,7 +74,7 @@ Example record:
 ## Install & run
 
 Prebuilt static binaries (Linux amd64/arm64, FreeBSD amd64) with checksums
-are on the [releases page](https://github.com/portalix/anycast-agent/releases)
+are on the [releases page](https://github.com/anycast-lab/anycast-agent/releases)
 — or build from source:
 
 ```sh

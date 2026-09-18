@@ -14,10 +14,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/portalix/anycast-agent/internal/agg"
-	"github.com/portalix/anycast-agent/internal/config"
-	"github.com/portalix/anycast-agent/internal/input"
-	"github.com/portalix/anycast-agent/internal/push"
+	"github.com/anycast-lab/anycast-agent/internal/agg"
+	"github.com/anycast-lab/anycast-agent/internal/config"
+	"github.com/anycast-lab/anycast-agent/internal/input"
+	"github.com/anycast-lab/anycast-agent/internal/push"
 )
 
 func main() {
